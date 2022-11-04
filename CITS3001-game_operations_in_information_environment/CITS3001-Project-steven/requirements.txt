@@ -1,6 +1,0 @@
-# How to run it py -m pip install -r requirements.txt
-Mesa==1.0.0
-inquirer==2.10.0
-networkx==2.8.6
-matplotlib==3.6.0
-colorama==0.4.4
